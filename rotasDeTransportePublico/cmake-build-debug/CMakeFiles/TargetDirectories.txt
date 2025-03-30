@@ -1,0 +1,3 @@
+D:/clion-workspace/rotasDeTransportePublico/cmake-build-debug/CMakeFiles/rotasDeTransportePublico.dir
+D:/clion-workspace/rotasDeTransportePublico/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/clion-workspace/rotasDeTransportePublico/cmake-build-debug/CMakeFiles/rebuild_cache.dir
